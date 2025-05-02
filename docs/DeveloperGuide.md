@@ -15,6 +15,15 @@
 
 This project is based on the AddressBook-Level3 project created by the [SE-EDU initiative](https://se-education.org).
 
+**Use of AI**
+
+Yueh-Ching:
+
+* https://chatgpt.com/share/67f43a76-f80c-8003-b896-645c72f57732
+* https://chatgpt.com/share/67f43a9b-a410-8003-a601-a7e521df7ba1
+* https://chatgpt.com/share/67f43aaf-f900-8003-8604-2f3ef08127a3
+* https://chatgpt.com/share/68146976-0bb0-8003-92a6-26121fbaec7b
+
 --------------------------------------------------------------------------------------------------------------------
 
 ## **Setting up, getting started**
